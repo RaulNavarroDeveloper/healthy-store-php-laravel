@@ -1,0 +1,9 @@
+Carrera: Diseño y Programación Web.
+Materia: Portales y comercio electrónico.
+cuatrimestre: 4.
+año: 2022.
+turno: Tarde.
+Comisión: "A".
+Apellido y nombre: Navarro Raul Alfredo.
+Caracter de entrega: Segundo parcial.
+Docente: Santiago Gallino.
